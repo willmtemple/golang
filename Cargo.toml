@@ -1,6 +1,6 @@
 [package]
 name = "golang"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["wmtemple"]
 license = "MIT"
 description = "Rust is golang"
