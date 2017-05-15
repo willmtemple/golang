@@ -4,3 +4,4 @@
 
 ## Goals
 - [x] Feature parity with Go
+- [x] Ambiguous functions
